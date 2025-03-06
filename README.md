@@ -14,7 +14,7 @@ Understanding the impact of different advertising strategies on sales.
 Correlation analysis between store attributes, customer demographics, and sales.
 Predictive Modeling:
 
-Implement regression models (Linear Regression, Random Forest, XGBoost) to predict sales performance.
+Implement regression model (Linear Regression) to predict sales performance.
 Compare different machine learning models using scikit-learn.
 Optimize model parameters using hyperparameter tuning techniques.
 Advertising Optimization Strategies:
