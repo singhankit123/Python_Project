@@ -1,6 +1,7 @@
-Project Title: BigMart Sales Advertising Analysis Using Python
+#Project Title: BigMart Sales Advertising Analysis Using Python
 1. Introduction
 In today’s competitive retail industry, understanding the impact of advertising on sales is crucial for optimizing marketing strategies. This project, BigMart Sales Advertising Analysis Using Python, aims to analyze the relationship between advertising expenditure and sales performance. By leveraging statistical analysis and machine learning techniques, this project seeks to derive actionable insights that can help maximize revenue while minimizing unnecessary advertising costs.
+
 2. Project Objectives
 The primary goal of this project is to analyze the effect of advertising on sales and predict future sales based on advertising expenditure. Specific objectives include:
 
@@ -29,9 +30,9 @@ Business Insights and Recommendations:
 Identifying the most effective advertising channels.
 Recommending an optimal budget allocation for advertising.
 Predicting future sales based on advertising investments.
+
 3. Dataset Description
 The dataset consists of sales and advertising expenditure data, including various advertising channels such as:
-
 TV Advertising Expenditure: Budget spent on television ads.
 Radio Advertising Expenditure: Budget allocated to radio promotions.
 Newspaper Advertising Expenditure: Costs incurred for newspaper ads.
@@ -40,6 +41,7 @@ Data Preprocessing Steps:
 Handling missing values and inconsistencies.
 Normalizing and standardizing the data for better model performance.
 Feature selection based on correlation analysis.
+
 4. Tools and Technologies Used
 Programming Language: Python
 Libraries:
@@ -49,6 +51,7 @@ Matplotlib & Seaborn – Data visualization
 Scikit-learn – Machine learning models
 Statsmodels – Statistical analysis
 XGBoost – Advanced machine learning models
+
 5. Methodology
 Step 1: Data Understanding and Cleaning
 Load the dataset and check for missing values.
@@ -74,12 +77,14 @@ Step 5: Insights and Recommendations
 Identify which advertising channels contribute the most to sales.
 Provide an optimized budget allocation strategy based on ROI.
 Predict future sales using the best-performing model.
+
 6. Expected Outcomes
 A clear understanding of how advertising influences sales.
 A data-driven recommendation on budget allocation.
 A predictive model for estimating future sales.
 Interactive visualizations and reports for stakeholders.
-7. Business Applications
+
+8. Business Applications
 Retail Industry: Optimizing marketing campaigns for better revenue.
 E-Commerce: Predicting sales based on online ad spending.
 Media Agencies: Evaluating ad effectiveness and customer reach.
