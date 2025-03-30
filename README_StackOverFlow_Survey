@@ -1,10 +1,12 @@
-Project Title: Stack Overflow Developer Survey Analysis Using Python
+#Project Title: Stack Overflow Developer Survey Analysis Using Python
+
 1. Introduction
 The Stack Overflow Developer Survey is an annual survey conducted to gather insights about developers, including their demographics, programming preferences, job roles, salary trends, and technology adoption. This project aims to analyze the Stack Overflow survey data to uncover key trends, patterns, and correlations in the developer community.
 By leveraging Python libraries for data analysis and visualization, this project will help in understanding factors such as:
 The most popular programming languages and technologies.
 The influence of education on salary levels.
 Trends in job satisfaction and work preferences.
+
 2. Project Objectives
 The main goals of this project are:
 
